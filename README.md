@@ -1,4 +1,4 @@
-# class-survival
+# Class Survival Shiny app
 Shiny app made for medic class reunion https://vickyleigh.shinyapps.io/ClassSurvival/
 
 Data from ONS (2017) deaths and populationns. This data only had information for up to 2016, so after this the cumulative probabilty 
